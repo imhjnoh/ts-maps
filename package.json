@@ -1,0 +1,22 @@
+{
+  "name": "maps",
+  "version": "1.0.0",
+  "description": "```bash npx parcel index.html ```",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/imhjnoh/ts-maps.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/imhjnoh/ts-maps/issues"
+  },
+  "homepage": "https://github.com/imhjnoh/ts-maps#readme",
+  "dependencies": {
+    "@faker-js/faker": "^7.6.0"
+  }
+}
