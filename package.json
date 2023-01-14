@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/imhjnoh/ts-maps#readme",
   "dependencies": {
-    "@faker-js/faker": "^7.6.0"
+    "@faker-js/faker": "^7.6.0",
+    "@types/google.maps": "^3.51.0"
   }
 }
